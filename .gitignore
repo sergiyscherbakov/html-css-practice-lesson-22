@@ -10,6 +10,7 @@
 # IDE
 .vscode/
 .idea/
+.claude/
 *.swp
 *.swo
 *~
@@ -18,8 +19,18 @@
 .DS_Store
 Thumbs.db
 
-# PDF files (optional, uncomment if needed)
-# *.pdf
+# PDF files
+*.pdf
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.ico
+*.webp
 
 # Logs
 *.log
